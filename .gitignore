@@ -1,1 +1,9 @@
 /venv/
+.idea/
+__pycache__/
+data_generators/__pycache__/
+helpers/__pycache__/
+data_generators/customers_generator/__pycache__/
+data_generators/products_generator/__pycache__/
+data_generators/providers_generator/__pycache__/
+
